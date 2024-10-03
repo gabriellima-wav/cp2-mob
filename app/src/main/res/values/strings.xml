@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CP2-Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Lista de opções para o Spinner -->
+    <string-array name="filmes_array">
+        <item>Filme 1</item>
+        <item>Filme 2</item>
+    </string-array>
+
+</resources>
